@@ -1,6 +1,3 @@
-Certainly! Here's a template for an awesome README file for an on-chain, zero-knowledge enabled 8 ball pool game:
-
----
 
 # 8 Ball Pool On-Chain ZK-Enabled Game
 
@@ -19,11 +16,11 @@ Welcome to the 8 Ball Pool On-Chain ZK-Enabled Game, where you can play 8 ball p
 ## Introduction
 
 This project aims to bring the classic game of 8 ball pool to the blockchain, allowing players to compete in a secure and transparent environment. By leveraging zero-knowledge proofs, players can verify game actions without revealing sensitive information, ensuring fair gameplay. All the Smart contracts are deployed and verified(on ScrollScan) with the contract addresses as follow:
-BallPool.sol :  0x74586B4482e94EC89a030cf171886b61aB2cd665.
-TurnVerifier: 0x332C5Ce79F04a3FC44895eF21A7c6A505416dE13.
-PocketBallVerifier: 0xeAA57325e6fb04616346B83A355b0560975163E1.
-StateVerifier: 0x05a7bc653BC228dBAD8dF36Dd206bB42f0a40802.
-GameOutcomeVerifier: 0xAd5766018731A611628D9dBD5F04a0a4EBac7968.
+1. BallPool.sol :  0x74586B4482e94EC89a030cf171886b61aB2cd665.
+2. TurnVerifier: 0x332C5Ce79F04a3FC44895eF21A7c6A505416dE13.
+3. PocketBallVerifier: 0xeAA57325e6fb04616346B83A355b0560975163E1.
+4. StateVerifier: 0x05a7bc653BC228dBAD8dF36Dd206bB42f0a40802.
+5. GameOutcomeVerifier: 0xAd5766018731A611628D9dBD5F04a0a4EBac7968.
 
 
 ## Features
